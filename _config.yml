@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "김영욱 Young Wook Kim"
-  avatar           : "/assets/images/bio-photo.jpeg" # 프로필 이미지 # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # 프로필 이미지 # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "수학을 공부해 봅니다: <br> 중, 고등학교부터 대학 수학까지"
   location         : "대한민국 Republic of Korea"
   email            : "gromo3074@gmail.com"
